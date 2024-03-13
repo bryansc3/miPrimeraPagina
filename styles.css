@@ -1,3 +1,7 @@
+.greeting {
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
 * {
   padding: 0;
   margin: 0;
